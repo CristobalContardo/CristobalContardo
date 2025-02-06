@@ -29,4 +29,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CristobalContardo&show_icons=true&include_all_commits=true&theme=dark&count_private=true')
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CristobalContardo&show_icons=true&include_all_commits=true&theme=dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristobalContardo&theme=dark)](https://github.com/CristobalContardo/github-readme-stats)
