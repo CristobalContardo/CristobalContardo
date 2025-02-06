@@ -1,4 +1,3 @@
-# Cristobal Contardo
 ## Bienvenidos a mi perfil 👋<br><br>Agunas pocas cosas sobre mi:<br><br>- 🔭 Diponible para nuevos empleos<br><br>- 🌱 Actualmente perfeccionándome en teconologías de ML<br><br>- 😄 Hobbies: Tecnología, Ciencias y Videojuegos
 
 
