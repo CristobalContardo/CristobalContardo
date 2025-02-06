@@ -1,8 +1,8 @@
 ## ¡Hola! 👋🏻
 
-<br>Bienvenido a mi perfil de GitHub. Mi nombre es Cristobal Contardo.
+### <br>Bienvenido a mi perfil de GitHub. Mi nombre es Cristobal Contardo.
 
-### <br>Agunas pocas cosas sobre mi:<br><br>- 🔭 Diponible para nuevos empleos<br><br>- 🌱 Actualmente perfeccionándome en teconologías de ML<br><br>- 😄 Hobbies: Tecnología, Ciencias y Videojuegos
+### <br>Agunas pocas cosas sobre mi:<br><br>- 🔭 Diponible para nuevos empleos<br><br>- 🌱 Actualmente perfeccionándome en tecnologías de ML<br><br>- 😄 Hobbies: Tecnología, Ciencias y Videojuegos
 
 ---
 
@@ -29,4 +29,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CristobalContardo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CristobalContardo&show_icons=true&include_all_commits=true&theme=dark&count_private=true')
